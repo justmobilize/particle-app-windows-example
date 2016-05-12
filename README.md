@@ -5,5 +5,7 @@
 ## Particle Cloud SDK and Device Setup Library basic Windows app example
 
 1. Open Visual Studio 2015 and create a new project - Blank App (Universal Windows)
-
 ![image](docs/images/new_project.png)
+2. Click Tools -> NuGet Package Manager -> Package Manager Console
+![image](docs/images/open_package_manager_console.png)
+
